@@ -18,7 +18,7 @@
 ## 1.1. <p align="center"><h4 align="center">Blockchain, Backend Dev, Software engineer in training !!</h4></p>
 
 <div>
-<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+<img align="right" src="https://github.com/dixitaniket/dixitaniket/blob/master/github_enter.gif" width="40%"/>
   <br>
 
 - 👷 <samp>Currently pursuing B.Tech in Computer Science from Indian Institute of Information Technology Vadodara 

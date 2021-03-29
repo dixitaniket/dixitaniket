@@ -18,7 +18,7 @@
 <br><br>
 <img align="right" src="https://github.com/dixitaniket/dixitaniket/blob/master/opagain.gif" width="100%"/>
 
-## 1.1. <p align="center"><h4 align="center">Blockchain, Backend Dev, Software engineer in training !!</h4></p>
+## 1.1. <p align="center"><h2 align="center">Blockchain, Backend Dev, Software Engineer in Making !!</h2></p>
 
 <div>
 <img align="right" src="https://github.com/dixitaniket/dixitaniket/blob/master/github_enter.gif" width="40%"/>

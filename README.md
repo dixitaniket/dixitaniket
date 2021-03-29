@@ -67,14 +67,12 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-107C10?style=flat-square&logo=LeetCode&logoColor=black)
 
 ##
-
-1.2. <br/>
 ---
-### 1.2.1. Github Stats
+### 1.2. Github Stats
 <p align="center">
   <a href="https://github.com/dixitaniket">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dixitaniket&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dixitaniket&hide=html,css,javascript&layout=compact&langs_count=8&theme=algolia"/>
+<!--     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dixitaniket&hide=html,css&layout=compact&langs_count=8&theme=algolia"/> -->
   </a>
 </p>
 

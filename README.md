@@ -16,7 +16,7 @@
   <img align="left" alt="" width="70px" src="https://img.shields.io/badge/About Me-EA4335?style=for-the-badge&logo=Website&logoColor=white" />
 </a>
 <br><br>
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+<img align="right" src="https://github.com/dixitaniket/dixitaniket/blob/master/opagain.gif" width="100%"/>
 
 ## 1.1. <p align="center"><h4 align="center">Blockchain, Backend Dev, Software engineer in training !!</h4></p>
 

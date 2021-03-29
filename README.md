@@ -1,16 +1,19 @@
 # 1. Hey Everyone! I'm [Aniket Dixit](https://github.com/dixitaniket) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
 <a href="https://twitter.com/_aniket_dixit">
-  <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+  <img align="left" alt="" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/dixitaniket199">
-  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  <img align="left" alt="" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/dixitaniket">
-  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+  <img align="left" alt="" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 <a href="mailto:dixitaniket199@gmail.com">
   <img align="left" alt="" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://dixitaniket.ml">
+  <img align="left" alt="" width="70px" src="https://img.shields.io/badge/About Me-EA4335?style=for-the-badge&logo=Website&logoColor=white" />
 </a>
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)

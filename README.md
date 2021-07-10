@@ -36,7 +36,9 @@
 
 <div>
 <h4><b><samp>Experiences:</samp></b></h4>
-- 👷 <samp>Backend Measure Mains<br>
+-👷 <samp>Blockchain developer@[Wall.app](https://www.wall.app/)<br>
+- 👷 <samp>Smart contract developer/tester/auditor@Quillhash<br>
+- 👷 <samp>Backend@Measure Mains<br>
 - 👨🏾‍💻 <samp>Microsoft Student Learn Ambassdor<br>
 
 ##

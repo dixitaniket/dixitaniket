@@ -36,8 +36,9 @@
 
 <div>
 <h4><b><samp>Experiences:</samp></b></h4>
--👷 <samp>Blockchain developer@[Wall.app](https://www.wall.app/)<br>
-- 👷 <samp>Smart contract developer/tester/auditor@Quillhash<br>
+  
+- 👷 <samp>Blockchain developer @<a href="https://wall.app/">Wall.app</a><br>
+- 👷 <samp>Smart contract developer/tester/auditor @<a href="https://quillhash.com">Quillhash</a><br>
 - 👷 <samp>Backend@Measure Mains<br>
 - 👨🏾‍💻 <samp>Microsoft Student Learn Ambassdor<br>
 

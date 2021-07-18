@@ -41,6 +41,14 @@
 - 👷 <samp>Smart contract developer/tester/auditor @<a href="https://quillhash.com">Quillhash</a><br>
 - 👷 <samp>Backend@Measure Mains<br>
 - 👨🏾‍💻 <samp>Microsoft Student Learn Ambassdor<br>
+  
+<h4><b><samp>Hackthons:</samp></b></h4>
+  
+- 👷 <samp><a href="https://devpost.com/software/oceancaller">Winner @Ocean Data Economy Challenge</a><br>
+- 👷 <samp><a href="https://gitcoin.co/issue/harmony-one/hackathon/1/100024063">Second Prize Winner @Harmony.one Hack the Horizon</a><br>
+- 👷 <samp><a href="HTTPS://PIB.GOV.IN/PRESSRELEASEIFRAMEPAGE.ASPX?PRID=1670576">Second Prize Winner @GovTechThon 2020</a><br>
+
+
 
 ##
 <h4><b><samp>Skills and Languages</samp></b></h4>

@@ -16,8 +16,8 @@
   <img align="left" alt="" width="70px" src="https://img.shields.io/badge/About Me-EA4335?style=for-the-badge&logo=Website&logoColor=white" />
 </a>
 <br><br>
-<img align="right" src="https://github.com/dixitaniket/dixitaniket/blob/master/opagain.gif" width="100%"/>
-
+<!-- <img align="right" src="https://github.com/dixitaniket/dixitaniket/blob/master/opagain.gif" width="100%"/>
+ -->
 ## 1.1. <p align="center"><h2 align="center">Blockchain, Backend Dev, Software Engineer in Making !!</h2></p>
 
 <div>

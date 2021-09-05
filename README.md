@@ -56,6 +56,8 @@
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-3776AB?style=flat-square&logo=Solidity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?style=flat-square&logo=JavaScript&logoColor=white)
 ![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)

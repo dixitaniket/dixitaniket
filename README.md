@@ -1,4 +1,4 @@
-# 1. Hey Everyone! I'm [Aniket Dixit](https://github.com/dixitaniket) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [Aniket Dixit](https://github.com/dixitaniket) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px" height="40px">
 <br><br>
 <a href="https://twitter.com/_aniket_dixit">
   <img align="left" alt="" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
@@ -25,7 +25,6 @@
 
 - 👷 <samp>Currently pursuing B.Tech in Computer Science from Indian Institute of Information Technology Vadodara 
 - 🥇 <samp> Winner Gov-TechThon 2020 || Winner Ocean Data Economy Challenge || Winner Harmony.one Hack the Horizon
-- 💼 <samp>I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
 - 💬 <samp>Ask me about Blockchain, Backend, Machine Learning, Artificial Intelligence, Internet of Things.
 
 - ⚡ <samp>Fun fact: I am always looking for Challenges! 

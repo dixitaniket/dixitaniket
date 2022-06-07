@@ -20,7 +20,7 @@
 <!--  -->
 
 <div>
-<img align="right" src="https://github.com/dixitaniket/dixitaniket/blob/master/github_enter.gif" width="40%"/>
+<img align="right" src="https://github.com/dixitaniket/dixitaniket/blob/master/github_enter.gif" width="27%" height="auto"/>
   <br>
 
 - 👷 <samp>Currently pursuing B.Tech in Computer Science from Indian Institute of Information Technology Vadodara 

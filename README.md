@@ -35,6 +35,7 @@
 <div>
 <h4><b><samp>Experiences:</samp></b></h4>
   
+- 👷 <samp>Engineering @<a href="https://umee.cc/">Umee</a><br>
 - 👷 <samp>Engineering @<a href="https://tendermint.com/">Tendermint</a><br>
 - 👷 <samp>Blockchain developer @<a href="https://wall.app/">Wall.app</a><br>
 - 👷 <samp>Smart contract developer/tester/auditor @<a href="https://quillhash.com">Quillhash</a><br>

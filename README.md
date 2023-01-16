@@ -12,7 +12,7 @@
 <a href="mailto:dixitaniket199@gmail.com">
   <img align="left" alt="" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
-<a href="https://dixitaniket.ml">
+<a href="https://dixitaniket.com">
   <img align="left" alt="" width="70px" src="https://img.shields.io/badge/About Me-EA4335?style=for-the-badge&logo=Website&logoColor=white" />
 </a>
 <br><br>

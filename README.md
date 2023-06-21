@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/dixitaniket199">
   <img align="left" alt="" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="#">
-  <img align="left" alt="" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
 <a href="mailto:dixitaniket199@gmail.com">
   <img align="left" alt="" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
@@ -80,18 +77,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-107C10?style=flat-square&logo=LeetCode&logoColor=black)
 
-##
----
-### 1.2. Github Stats
-<p align="center">
-  <a href="https://github.com/dixitaniket">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dixitaniket&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
-<!--     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dixitaniket&hide=html,css&layout=compact&langs_count=8&theme=algolia"/> -->
-  </a>
-</p>
-
-##
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/dixitaniket/count.svg" />
-</p>
